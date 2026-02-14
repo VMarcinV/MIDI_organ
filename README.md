@@ -51,4 +51,5 @@ This creates a responsive and reliable MIDI controller while preserving the orig
 ![20250502_144837](https://github.com/user-attachments/assets/33e6bdd9-fc32-4964-bc27-7d1f2d955289)
 ![20250502_195826](https://github.com/user-attachments/assets/d5c8fd4b-d011-4f0c-976e-67c524614e32)
 ![20250502_195823](https://github.com/user-attachments/assets/655669f3-84f8-49d1-a604-87ab59b405ae)
+![20250502_195843](https://github.com/user-attachments/assets/521cae0c-e01f-4d71-9c71-a3d719c7d21c)
 
